@@ -1,0 +1,11 @@
+D:\GIT\MyUtilities\MyUtilities_project\bin\Debug\MyUtilities_project.exe.config
+D:\GIT\MyUtilities\MyUtilities_project\bin\Debug\MyUtilities_project.exe
+D:\GIT\MyUtilities\MyUtilities_project\bin\Debug\MyUtilities_project.pdb
+D:\GIT\MyUtilities\MyUtilities_project\obj\Debug\MyUtilities_project.csproj.AssemblyReference.cache
+D:\GIT\MyUtilities\MyUtilities_project\obj\Debug\MyUtilities_project.csproj.SuggestedBindingRedirects.cache
+D:\GIT\MyUtilities\MyUtilities_project\obj\Debug\MyUtilities_project.MainForm.resources
+D:\GIT\MyUtilities\MyUtilities_project\obj\Debug\MyUtilities_project.Properties.Resources.resources
+D:\GIT\MyUtilities\MyUtilities_project\obj\Debug\MyUtilities_project.csproj.GenerateResource.cache
+D:\GIT\MyUtilities\MyUtilities_project\obj\Debug\MyUtilities_project.csproj.CoreCompileInputs.cache
+D:\GIT\MyUtilities\MyUtilities_project\obj\Debug\MyUtilities_project.exe
+D:\GIT\MyUtilities\MyUtilities_project\obj\Debug\MyUtilities_project.pdb
